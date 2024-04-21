@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T16:27:46.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.7" etag="OApCoR_BBnMcAftJm8MS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T16:45:06.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KjvyXAmQloEC7z5zgX6Z" version="24.2.7" type="github">
   <diagram name="Página-1" id="3sR1pgfWF7j67nFELfS2">
-    <mxGraphModel>
+    <mxGraphModel dx="1707" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-31" y="110" width="840" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;TITULO&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="130" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;TEXTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="249" y="200" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;FOTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="322" y="500" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-74jEVZdXRuyU1Rd3O_7-1" target="-74jEVZdXRuyU1Rd3O_7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CONTATOS&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="317" y="800" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="-74jEVZdXRuyU1Rd3O_7-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;HISTORICO ESCOLAR&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="331" y="650" width="116" height="116" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
